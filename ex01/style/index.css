@@ -1,0 +1,25 @@
+h2{
+text-align: center;
+color:brown
+}
+h4{
+color: lightblue;    
+}
+
+img{
+width: 300px; 
+}
+
+.box{
+width: 300px;
+text-align: justify;
+margin-top: 10px;
+}
+.con1{
+display: flex;
+flex-direction: row;
+justify-content: space-around;    
+}
+.spc{
+padding-bottom: 80px;;    
+}
